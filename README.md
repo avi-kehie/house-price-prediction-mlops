@@ -14,14 +14,15 @@ A Linear Regression algorithm is used to train the model.
 
 ## 2. Technologies Used
 
-- Python
-- Pandas and NumPy
-- Scikit-learn
-- MLflow
-- Joblib
-- FastAPI
-- Uvicorn
-- Git
+Python  :	Main programming language used to develop the project.
+Pandas  :	Loads, organises and processes the house-price dataset.
+NumPy   :	Generates numerical data and performs mathematical operations.
+Scikit-learn    :	Provides the Linear Regression algorithm and model evaluation metrics.
+MLflow  :	Tracks experiments, parameters, metrics and model artifacts.
+Joblib  :	Saves and loads the trained machine-learning model.
+FastAPI :   Creates an API that accepts house details and returns predicted prices.
+Uvicorn :	Runs the FastAPI application as a web server.
+Git     :	Tracks changes and maintains versions of the project code.
 
 ## 3. Project Structure
 
